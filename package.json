@@ -1,0 +1,16 @@
+{
+  "name": "charutils",
+  "version": "1.0.0",
+  "description": "char process utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "charutils"
+  ],
+  "author": "Potter",
+  "license": "ISC"
+}
