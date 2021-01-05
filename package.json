@@ -1,6 +1,6 @@
 {
   "name": "charutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "char process utils",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "node",
     "charutils"
   ],
-  "homepage": "git@github.com:aa4790139/CharUtils.git",
+  "homepage": "https://github.com/aa4790139/CharUtils.git",
   "author": "Potter",
   "license": "ISC"
 }
