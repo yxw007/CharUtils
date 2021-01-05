@@ -11,6 +11,7 @@
     "node",
     "charutils"
   ],
+  "homepage": "git@github.com:aa4790139/CharUtils.git",
   "author": "Potter",
   "license": "ISC"
 }
